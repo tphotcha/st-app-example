@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# Streamlit Example App
 
-Web App for Machine Learning Model
+Web Application for Machine Learning Model
 
 ## Demo App
 
